@@ -1501,7 +1501,7 @@ ggplot(df_cores_with_fd, aes(x = x, y = y, color = productivity)) +
        x = "X-Koordinate (m)", y = "Y-Koordinate (m)", color = "log&stand. Prod") +
   theme_minimal()
 
-
+print("test")
 
 
 
